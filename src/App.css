@@ -1,0 +1,20 @@
+.container-fluid{
+  background-color: #6a28dcb8;
+  padding-top: 1.5rem;
+  
+}
+.navbar{
+  font-size: 25px;
+}
+.btn{
+  font-weight: 700;
+  font-style: italic;
+}
+p{
+ color: rgb(219, 9, 40);
+ text-decoration: underline;
+ text-transform: lowercase;
+}
+li{
+  text-transform: uppercase;
+}
